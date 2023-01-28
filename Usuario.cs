@@ -31,5 +31,7 @@ namespace Clase12
             this.nombreUsuario = nombreUsuario;
             this.contraseña = contraseña;
         }
+
+        public Usuario() { }
     }
 }
